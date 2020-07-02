@@ -1,7 +1,7 @@
-# Finance!
+# Stock Portfolio Monitoring and Management System
 
 A fast, free, in-browser stock portfolio manager that you can deploy anywhere. You can use the version
-deployed at https://ssorallen.github.io/finance/ or [deploy your own](#deploy-your-own).
+deployed at https://alakwa.github.io/fisalmatary/ or [deploy your own](#deploy-your-own).
 
 ## Importing Your Portfolio
 
@@ -135,12 +135,12 @@ If you want to do this all on GitHub and deploy with [GitHub Pages][6], follow t
 1. Fork this repo with the "Fork" button in the upper right
 2. Clone your new repo to your computer
 3. Change the `"homepage"` in package.json to your site's new home,
-   https://YOURNAME.github.io/finance/
+   https://YOURNAME.github.io/fisal/
 4. Build the app for release using the [How to Build](#how-to-build) instructions
 5. Using the [gh-pages package][8] that's already installed, deploy to your very own page
 
        $ yarn deploy
-6. ✨✨ Your version of Finance! will be available at https://YOURNAME.github.io/finance/ ✨✨
+6. ✨✨ Your version of Finance! will be available at https://YOURNAME.github.io/fisal/ ✨✨
 
 ## Inspiration
 
